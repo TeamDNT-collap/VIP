@@ -1,0 +1,38 @@
+{
+    "check_list": {
+        "map_desert_0.10.0.10121.pak": [
+            "2d3ac3643213f70d6890b180e5f6d847e7b85830"
+        ], 
+        "map_desert_0.10.0.10121_0.11.0.10565.diffpak": [
+            "d9601d86e93c567d8e97a07b68b53be84ccea37b"
+        ], 
+        "map_desert_0.11.0.10565.pak": [
+            "a6003904f3cd1c576fafa202b402bd54cffc759e"
+        ], 
+        "map_dihorotok_0.10.0.10121.pak": [
+            "149eb5ea31474404e4a4b151e903d8388c81ddf1"
+        ], 
+        "map_dihorotok_0.10.0.10121_0.11.0.10565.diffpak": [
+            "19452ec62475f034c07a0a66570fdc2f766eecc2"
+        ], 
+        "map_dihorotok_0.11.0.10565.pak": [
+            "c5895421fe5cd6ec7314a4c135564b00a1e64d35"
+        ], 
+        "map_savagemain_0.10.0.10121.pak": [
+            "c723161403017cca64544be9d565578d624bfaa5"
+        ], 
+        "map_savagemain_0.10.0.10121_0.11.0.10565.diffpak": [
+            "af5f57d15f1ec695cf02997bb34a639177859d96"
+        ], 
+        "map_savagemain_0.11.0.10565.pak": [
+            "0b9dd2d1b7b323557a5ecb0aff3274105d68d8a4"
+        ]
+    }, 
+    "diff_list": {
+        "0.10.0.10121": {
+            "map_desert_0.11.0.10565.pak": "map_desert_0.10.0.10121_0.11.0.10565.diffpak", 
+            "map_dihorotok_0.11.0.10565.pak": "map_dihorotok_0.10.0.10121_0.11.0.10565.diffpak", 
+            "map_savagemain_0.11.0.10565.pak": "map_savagemain_0.10.0.10121_0.11.0.10565.diffpak"
+        }
+    }
+}
